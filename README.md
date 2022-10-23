@@ -24,4 +24,8 @@ Internshala Trainings. </samp>
 ![property_list](https://user-images.githubusercontent.com/99412531/197375091-bf2273d3-4113-438f-8523-89f1718651e0.png)
 
 #### Property Detail Page
+<<<<<<< HEAD
 ![property_details](https://user-images.githubusercontent.com/99412531/197375094-4c8c69e1-708d-49ed-af90-620a40457388.png)
+=======
+![property_details](https://user-images.githubusercontent.com/99412531/197375094-4c8c69e1-708d-49ed-af90-620a40457388.png)
+>>>>>>> 5de5318db4138761ceaf5f7a8c54f3a63820e244
